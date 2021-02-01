@@ -1,0 +1,8 @@
+# -*- mode: gitignore; -*-
+# Emacs stuff
+*~
+\#*\#
+
+# NPM stuff
+node_modules
+/lib
